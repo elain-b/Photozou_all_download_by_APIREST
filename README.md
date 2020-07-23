@@ -63,7 +63,7 @@ pipenv install filetype
 Please create python code named "photozou.py".
 
 ```bash
-git clone https://github.com/hoge/~
+git clone https://github.com/elain-b/Photozou_all_download_by_APIREST.git
 cd examples
 python photozou.py
 ```
