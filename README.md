@@ -1,9 +1,6 @@
-# Photozou_all_download_by_APIREST
-Photozou all download by APIREST.
+# Photozou all download by APIREST
 
-# Physics_Sim_Py
-
-The id is a script that accesses the Photozou API and downloads all the photos in your account by dividing them into folders by album.
+"Photozou all download by APIREST” is a script that accesses the Photozou API and downloads all the photos in your account by dividing them into folders by album.
 
 # DEMO
 
