@@ -60,13 +60,12 @@ pipenv install filetype
 
 # Usage
 
-Please create python code named "demo.py".
-And copy &amp; paste [Day4 tutorial code](https://cpp-learning.com/pyxel_physical_sim4/).
-
-Run "demo.py"
+Please create python code named "photozou.py".
 
 ```bash
-python demo.py
+git clone https://github.com/hoge/~
+cd examples
+python photozou.py
 ```
 
 # Note
